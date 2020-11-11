@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-welcome {
+  text-align: left;
+}
+
+.header-score {
+  text-align: right;
+  color: #7f35ac;
+}
+
+.header-welcome p,
+.header-score p {
+  color: #a89a9a;
+  font-size: 13px;
+}

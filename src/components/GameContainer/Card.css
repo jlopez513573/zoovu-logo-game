@@ -1,0 +1,12 @@
+.card {
+  padding: 20px;
+  display: flex;
+}
+
+.empty-card {
+  padding: 20px;
+  display: flex;
+  width: 125px;
+  height: 125px;
+  border: 1px dashed #4bc043;
+}
